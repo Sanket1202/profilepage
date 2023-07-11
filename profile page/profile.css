@@ -1,0 +1,103 @@
+.page-background{
+    background-color: rgb(115, 112, 106);
+    font-family: sans-serif;
+    padding: 20px;
+    background-position: center;
+    background-size:cover;
+  }
+  
+  body {
+      background-color: #ece6e6d4;
+      padding: 20px;
+      font-family: sans-serif;
+      background-image: url("backg.jpg");
+      background-position: center;
+      background-size:cover;
+    }
+  
+    .profile-card {
+      max-width: 500px;
+      margin: 0 auto;
+      padding: 30px;
+      background-color: rgba(60, 96, 213, 0.379);
+      border-radius: 10px;
+      box-shadow: 0 2px 5px rgba(189, 19, 19, 0.283);
+      /* height: 100%; */
+    }
+    /* @media (max-width:500px){
+      #box1{
+        display: block;
+      }
+    } */
+    .profile-picture {
+      width: 150px;
+      height: 150px;
+      border-radius: 12px;
+      object-fit: cover;
+      margin-bottom: 20px;
+      display: block;
+      box-shadow: 0 0 2px 1px rgba(5, 5, 5, 0.5);
+      /* margin-left: auto;
+      margin-right: auto; */
+    }
+    .profile-name {
+      font-size: 24px;
+      font-weight: bold;
+      margin-bottom: 10px;
+    }
+  
+    .profile-title {
+      font-size: 20px;
+      color: #363131;
+      margin-bottom: 20px;
+    }
+  
+    .profile-bio {
+      font-size: 18px;
+      color: #333333;
+      margin-bottom: 30px;
+    }
+  
+    .profile-skills {
+      font-size: 18px;
+      color: #353232;
+      margin-bottom: 10px;
+      font-weight: bold;
+    }
+  
+    .button{
+     background-color: rgb(17, 171, 243);
+     border-radius: 8px;
+     border-color: rgb(129, 125, 125);
+     width: auto;
+     height: auto;
+    }
+  
+  
+    .hobbies{
+      font-size: 18px;
+      color: #353232;
+      margin-bottom: 10px;
+      font-weight: bold;
+      list-style: none;
+    }
+  
+    .order-style{
+      list-style: circle;
+    }
+  
+    .profile-website{
+      text-align: center;
+      border-radius: 50%;
+      background-color: rgba(29, 51, 131, 0.591);
+    }
+  
+   .company{
+      font-size: 20px;
+      color: #363131;
+    }
+  
+    address a{
+      color: white;
+    }
+    
